@@ -1,2 +1,4 @@
 # Introduction_to_artificial_intelligence
 该仓库主要记录本人在布里斯托大学机器人专业研究生期间的人工智能课程内容
+## Week 15
+这周主要介绍了 K_means聚合的方法
